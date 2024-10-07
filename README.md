@@ -1,4 +1,4 @@
-# Dong's Portfolio
+# Duong Phu Dong's Portfolio
 
 Welcome to my portfolio! I am Dong, a Software Engineering student at RMIT University in Vietnam. This portfolio showcases my projects, skills, and competitions I have participated in.
 
