@@ -5,6 +5,15 @@ body {
     margin: 0;
     font-family: 'Press Start 2P', cursive;
 }
+body.light {
+    background-color: #f0f4f8; /* Light background */
+    color: #333; /* Dark text */
+}
+body.dark {
+    background-color: #333; /* Dark background */
+    color: #f0f4f8; /* Light text */
+}
+
 
 header {
     background: #282c34;
